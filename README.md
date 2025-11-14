@@ -1,7 +1,7 @@
 # Thapelo Mogale - Data Analysis Portfolio
 
 
-## About This Portfolio Template
+## About This Portfolio
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
