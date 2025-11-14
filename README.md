@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Thapelo Mogale - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -6,7 +6,7 @@ Welcome! This repository contains the complete template for a professional, one-
 
 This portfolio is designed to demonstrate skills in:
 - Data visualization and storytelling
-- Data modeling and analysis
+- Data analysis
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
@@ -28,10 +28,9 @@ This template is set up to showcase your best work. You can easily customize the
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI
+- **Data Analysis**: SQL, Excel.
+- **Data Modeling**: Power Query Editor, DAX.
 
 ## 💡 How to Use This Template
 
