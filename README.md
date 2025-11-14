@@ -13,7 +13,7 @@ This portfolio is designed to demonstrate skills in:
 
 
 ### Amazon Prime video Power BI Dashboard
-Analysis of the amazon Prime video dataset and a Power BI Dashboard to visualize the findings
+Analysis of the amazon Prime video dataset using a Power BI Dashboard to visualize the findings
 
 
 ## 🛠️ Skills
